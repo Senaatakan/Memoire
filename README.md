@@ -1,0 +1,2 @@
+# Memoire
+Python'ın Turtle modülüyle yazılmış bu oyunda ekranda beliren dairenin rengi ve içinde yazan sayı akılda tutulur. Ardından gelen ekrandaki dairenin  rengi çncekiyle aynı renkse space tuşuna basarak 20 puan kazanılır. Aynı zamanda önceki ekrandaki sayı sonraki  ekrandaki sayıyı tam bölüyorsa veya sonraki ekrandaki sayı önceki ekrandaki sayıyı tam bölüyorsa space tuşuna  basarak 20 puan kazanılır. Yanlış anda tuşa basılırsa 30 puan kaybedilir. 100 puana ulaşan oyuncu oyunu kazanır.
